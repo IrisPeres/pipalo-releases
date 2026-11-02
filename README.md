@@ -10,9 +10,21 @@ This repository holds **downloads, release notes and feedback** for Pipalo. The 
 
 ## Status
 
-Pre-release. There is no download yet, so there is nothing to install from here. Homebrew (`brew install --cask pipalo`) is coming soon.
+Pre-release. There is no download yet, so there is nothing to install from here.
 
 Needs macOS on Apple silicon. Claude Code is optional: without it the wellbeing features still work, and the token features have nothing to show.
+
+## Install with Homebrew (coming soon)
+
+Once the first release is published, you will install Pip with one command:
+
+```sh
+brew install --cask pipalo
+```
+
+To update later: `brew upgrade --cask pipalo`. To remove it: `brew uninstall --cask pipalo`.
+
+**This does not work yet.** There is no release and no Homebrew cask today, so the command will fail. This section will be updated when it is live.
 
 ## What Pip does
 
