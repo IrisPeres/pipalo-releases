@@ -4,7 +4,7 @@
 
 Pip is a tiny pixel blob for your Mac's screen corner. It fills with water as you use your AI budget. It reminds you to drink, sit up straight and log off. It works with Claude Code. Everything stays on your Mac.
 
-![Pip in the corner of a Mac screen. A speech bubble asks for a few sips of water, then counts down 20 seconds of looking away from the screen. Pip eats an apple, puts on sunglasses for a sun walk, and the right-click menu opens.](assets/pip-demo.gif)
+![Pip, a pixel blob, in seven scenes, each with the speech bubble the app shows: Token spending (nearing the monthly limit), Context gauge, Token tips, Pull requests waiting, Unread counts, a water break, and a sun walk where Pip strolls in sunglasses.](assets/pip-tour.gif)
 
 This repository holds **downloads, release notes and feedback** for Pipalo. The app's source code is not published here.
 
